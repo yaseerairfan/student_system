@@ -1,0 +1,23 @@
+body{
+    align-items: center;
+}
+.form-row{
+    margin: 30px!important;
+}
+.submit-btn{
+    width: 40%!important;
+    margin: 30px!important;
+}
+.studentForm {
+    background: #F9F9F9;
+    padding: 25px;
+    margin:30px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+    border-radius: 30px;
+    width: 70%!important;
+}
+.error{
+    color: #b02417;
+}
+
+
